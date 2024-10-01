@@ -1,0 +1,15 @@
+
+.jumbotron{
+    background-image:url(fix.jpg);
+    background-size: cover;
+    background-position: center center;
+    padding: 100px;
+    
+}
+.jumbotron h1, .jumbotron p {
+    font-weight: bold;
+}
+
+.referensi {
+    margin-top: 70px; 
+  }

@@ -1,0 +1,23 @@
+body {
+    background-color: blueviolet; background: linear-gradient(#9a08dd 0%, #dd4c4f 40%, #7420d3 100%);
+
+}
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 80px;
+}
+.foto {
+    width: 200px;
+}
+.profile h2 {
+    color: aliceblue;
+}
+.profile h4 {
+    color: aliceblue;
+}
+.biodata {
+    background-color: #fff;
+}
